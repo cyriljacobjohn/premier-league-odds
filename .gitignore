@@ -1,13 +1,2 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
+.DS_Store
 venv/
-
-# Data
-data/*.csv
-
-# Env
-.env
